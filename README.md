@@ -13,4 +13,4 @@ The dataset has the following attributes:-
 8. Age
 9. Outcome
 
-During Model evaluation, we compare various machine learning algorithms on the basis of accuracy_score metric and find the best one. Then we create a web app using Flask which is a python micro framework.
+During Model evaluation, we compare various machine learning algorithms on the basis of accuracy_score metric and find the best one.
